@@ -5,7 +5,7 @@ $^1$ Department of Mathematics, UCLA, Los Angeles, CA 90095, USA. \
 $^2$ Department of Statistics, UCLA, Los Angeles, CA 90095, USA. \
 $^&#8224$ These authors contributed equally to this work.
 
-### [Report](https://github.com/alanwmy00/M148_Project/blob/main/M148-Final-Report.pdf), [Presentation](https://github.com/alanwmy00/M148_Project/blob/main/M148-Presentation.pdf)
+# [Report](https://github.com/alanwmy00/M148_Project/blob/main/M148-Final-Report.pdf), [Presentation](https://github.com/alanwmy00/M148_Project/blob/main/M148-Presentation.pdf)
 
 ## Executive Summary
 Fingerhut is looking to incentivize consumers to make a purchase, but in a strategic manner to effectively maximize revenue. To address this problem, one of the questions Bluestem Brands raises is how they can go about predicting a user’s behavior and activity to help inform whether it is worth it to incur marketing spend on this particular user. They want to uncover which users are more likely to convert based on their website activity and accessible features; these customers would be the population to target for marketing tactics since the tactics have a higher probability of succeeding.
