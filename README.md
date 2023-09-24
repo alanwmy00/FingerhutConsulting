@@ -2,7 +2,7 @@
 
 ### TEAM Peppermint Mocha: [Karen Nguyen](https://github.com/knguyenx5)$^{1,2,&#8224}$, [Alan Wang](https://github.com/alanwmy)$^{1,2,&#8224}$, [Anand Gowda](https://github.com/acgowda)$^{1,2,&#8224}$, [Deana Moghaddas](https://github.com/deanamgds19)$^{1,2,&#8224}$
 $^1$ Department of Mathematics, UCLA, Los Angeles, CA 90095, USA. \
-$^2$ Department of Statistics, UCLA, Los Angeles, CA 90095, USA. \
+$^2$ Department of Statistics and Data Science, UCLA, Los Angeles, CA 90095, USA. \
 $^&#8224$ These authors contributed equally to this work.
 
 # [Report](https://github.com/alanwmy00/FingerhutConsulting/blob/main/M148-Final-Report.pdf), [Presentation](https://github.com/alanwmy00/FingerhutConsulting/blob/main/M148-Presentation.pdf)
