@@ -1,6 +1,6 @@
 # Impact of Promotional Codes During Checkout on Fingerhut Customers
 
-### TEAM Peppermint Mocha: [Karen Nguyen](https://github.com/knguyenx5)$^{1,2,&#8224}$;, [Alan Wang](https://github.com/alanwmy)$^{1,2,&#8224}$, [Anand Gowda](https://github.com/acgowda)$^{1,2,&#8224}$, [Deana Moghaddas](https://github.com/deanamgds19)$^{1,2,&#8224}$
+### TEAM Peppermint Mocha: [Karen Nguyen](https://github.com/knguyenx5)$^{1,2,&#8224}$, [Alan Wang](https://github.com/alanwmy)$^{1,2,&#8224}$, [Anand Gowda](https://github.com/acgowda)$^{1,2,&#8224}$, [Deana Moghaddas](https://github.com/deanamgds19)$^{1,2,&#8224}$
 $^1$ Department of Mathematics, UCLA, Los Angeles, CA 90095, USA. \
 $^2$ Department of Statistics, UCLA, Los Angeles, CA 90095, USA. \
 $^&#8224$ These authors contributed equally to this work.
